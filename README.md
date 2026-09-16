@@ -7,7 +7,7 @@
 ## 📊 Character Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pedroesimonv&show_icons=true&theme=tokyonight&hide_border=true&title_color=B73BFE" alt="Estadísticas de Pedro" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pedroesimonv&theme=tokyonight&hide_border=true" alt="Racha de misiones de Pedro" />
 </div>
 
 ## 🛠️ Skill Tree (Tech Stack)
